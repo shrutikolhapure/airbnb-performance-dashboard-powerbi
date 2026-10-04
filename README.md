@@ -30,3 +30,7 @@ Power BI | DAX | Data Visualization
 - DAX measures, combo charts, and conditional formatting
 
 
+
+## Files
+- `AIR1.png`, `AIR2.png`, `AIR3.png`: dashboard images
+- Power BI report (.pbix): https://drive.google.com/file/d/1ovuT4JzM3MzQCX4WMTv6TLCBAkUeqLm6/view?usp=drive_link
